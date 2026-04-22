@@ -9,6 +9,8 @@
 В рамках проекта был выполнен полный цикл тестирования веб-приложения:
 от анализа требований до подготовки тестовой документации и отчетности.
 
+👉 https://github.com/stasya-03/manual-testing-portfolio/tree/main/ecommerce-testing-project
+
 ---
 
 ## 🌐 Объект тестирования
@@ -37,19 +39,6 @@
 
 ---
 
-## 🎓 Курсовой проект
-
-📄 Тест-кейсы (Excel):  
-👉 ./test-cases/ecommerce-test-cases.xlsx  
-
-📄 Тест-кейсы (Google Sheets):  
-👉 https://docs.google.com/spreadsheets/d/1QtSsmONKSLj_eKFx6ndUI-ao7s7pFRS6/edit  
-
-📂 Задание проекта:  
-👉 https://github.com/netology-code/iqa-diplom  
-
----
-
 ## 🧪 Виды тестирования
 
 - Functional testing  
@@ -69,11 +58,12 @@
 
 ## 📁 Структура репозитория
 
+- /ecommerce-testing-project
 - /test-plan  
 - /test-cases  
 - /checklists  
 - /bug-reports  
-- /summary-report  
+- /summary-report
 
 ---
 
